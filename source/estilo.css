@@ -1,0 +1,48 @@
+body{
+    background: rgb(72, 80, 73);
+    background-image: url('img\campoDeBatalla.jpg');
+    background-repeat: no-repeat;
+    
+}
+
+#Titulo{
+    height: 100px;
+    width: 100%;
+    margin: 0px;
+    text-align: center;
+    line-height: 100px;
+}
+
+nav ul li{
+    list-style:none;
+    text-align: center;
+    margin: 0px;
+    padding: 5px;
+    height: 40px;
+}
+
+#fixture{
+    float: left;
+    width: 50%;
+}
+
+#Fixture{
+    width: 100%;
+    margin: 0px;
+    text-align: left;
+    
+}
+
+aside{
+    float: left;
+    width: 50%;
+}
+
+#equipos{
+    height: 100px;
+    width: 100%;
+    margin: 0px;
+    text-align: center;
+    line-height: 100px;
+}
+
